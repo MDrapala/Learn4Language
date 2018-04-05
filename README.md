@@ -1,2 +1,2 @@
 # Learn4Language
-[nom du lien](google.fr)
+Projet réalisé en cours de développement (1ère année de BTS SIO)
